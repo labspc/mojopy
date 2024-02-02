@@ -1,0 +1,2 @@
+# mojopy
+mojo ❤️ python
